@@ -8,8 +8,9 @@
 
 ### 💻 사용 기술
 
-+ JavaScript
 + React
++ React-Bootstrap
++ React-Spinners
 
 <br/>
 
